@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+2CUIHBT2NM=",
+  "success": true,
+  "projectFilePath": "/Users/shulezhenkov/Documents/C#/BIVT-25-Lab-10/Lab10/Lab10.csproj",
+  "expectedPackageFiles": [
+    "/Users/shulezhenkov/.nuget/packages/microsoft.netcore.app.ref/8.0.25/microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "/Users/shulezhenkov/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.25/microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512",
+    "/Users/shulezhenkov/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.25/microsoft.netcore.app.host.osx-arm64.8.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
