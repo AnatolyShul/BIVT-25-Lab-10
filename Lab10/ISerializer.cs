@@ -4,7 +4,7 @@ namespace Lab10.Green
 {
     public interface ISerializer
     {
-        T Deserialize<T>() where T : Green;
-        void Serialize<T>(T obj) where T : Green;
+        T Deserialize<T>() where T : Lab9.Green.Green;
+        void Serialize<T>(T obj) where T : Lab9.Green.Green;
     }
 }
